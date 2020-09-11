@@ -13,7 +13,7 @@ I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a
 - ReactJS - Advance concepts. 
 
 ### 👩‍💻 I'm working on
-- Building projects and my portfolio website.
+- Building projects and my portfolio website. Wanna to get into the Chingu cohort for this. 
 - Basically just coding as much as I can every week. 
 
 ### 💡 Goals for 2020
