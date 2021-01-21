@@ -13,14 +13,13 @@ I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a
 - ReactJS - Advance concepts. 
 
 ### 👩‍💻 I'm working on
-- Building projects and my portfolio website. Wanna to get into the Chingu cohort for this. 
+- Working through the Chingu cohort. 
 - Basically just coding as much as I can every week. 
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - Get better at React - Get a hold of the advance concepts
 - Get better at UI / UX
-- Maybe pickup Typescript
-- Get a Basic understanding of D3.js
+- Pickup Typescript & GraphQL & D3.js
 - Up my algo game - this one should be top actually
 - Get a remote gig - and this as well
 
