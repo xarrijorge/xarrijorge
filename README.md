@@ -4,9 +4,6 @@
 I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a solid foundation in both frontend and backend technologies and languages but I prefer life on the front - UI / UX. You can find me on tech twitter <a href = "https://twitter.com/xarrijorge">xarrijorge</a> where I'm currently making the journey to better understanding of fullstack tech and have been following <a href="https://fullstackopen.com/en">Full Stack Open</a> Which I think is best resourse for fullstack react focused development. I'm also actively improving my design skills and I look for every opportunity to better my UX  and web acessibility game.
 
 ### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
 
 ### ✔️ I'm currently learning
 - JavaScript - Advance concepts and Web API
