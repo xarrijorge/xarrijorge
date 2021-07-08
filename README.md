@@ -1,7 +1,7 @@
 ## Hi there :wave: :smile:
 <br>
 <br>
-I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a solid foundation in both frontend and backend technologies and languages but I prefer life on the front - UI / UX. You can find me on tech twitter <a href = "https://twitter.com/xarrijorge">xarrijorge</a> where I'm currently making the journey to better understanding of fullstack tech and have been following <a href="https://fullstackopen.com/en">Full Stack Open</a> Which I think is best resourse for fullstack react focused development. I'm also actively improving my design skills and I look for every opportunity to better my UX  and web acessibility game.
+I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a solid foundation in both frontend and backend technologies and languages but I prefer life on the front - UI / UX. You can find me on tech twitter <a href = "https://twitter.com/xarrijorge">xarrijorge</a> where I'm currently making the journey to better understanding of fullstack and have been following <a href="https://fullstackopen.com/en">Full Stack Open</a> Which I think is best resourse for fullstack react focused development. I'm also actively improving my design skills and I look for every opportunity to better my UX  and web acessibility game.
 
 ### ⚡ Relevant achievements
 
