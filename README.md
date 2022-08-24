@@ -11,9 +11,9 @@ I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a
 <!-- ### 👩‍💻 I'm working on
 - Building projects to develop the skills learned from Tech above  -->
 
-### 💡 Goals for 2022
-- Get better at UI / UX. I've always loved design.
-- Learn Blockchain & Distributed systems. I think they're the future of tech.
+### 💡 Goals for immediate future is to get familiar with:
+- AI / ML
+- Blockchain & Distributed systems. I think they're the future of tech.
 - Learn Golang. The force looks strong with this as well.
 
 ### 🌴 Fun facts
