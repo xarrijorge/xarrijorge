@@ -1,4 +1,4 @@
-## Hi there :wave: :smile:
+## Hi there :wave:
 <br>
 <br>
 I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a solid foundation in both frontend and backend technologies and languages but I prefer life on the front - UI / UX. I'm also actively improving my design skills and I look for every opportunity to better my UX  and web acessibility game.
