@@ -5,16 +5,15 @@ I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a
 
 
 ### ✔️ I'm currently learning
-- Typerscript & Testing
-- Mobile Development (React Native)
+- Kotlin - For mobile
+- Flask - a Python framework for backend web development
 
 <!-- ### 👩‍💻 I'm working on
 - Building projects to develop the skills learned from Tech above  -->
 
 ### 💡 Goals for immediate future is to get familiar with:
-- AI / ML
-- Blockchain & Distributed systems. I think they're the future of tech.
-- Learn Golang. The force looks strong with this as well.
+- AI / ML - With all the rave, now is good time as ever to pick it up
+- Rust - Have heard a lot of good this around this
 
 ### 🌴 Fun facts
 - I'm an anime lover, Shounen buff and Gooner forever. 
@@ -24,6 +23,6 @@ I'm Xarri Jorge, a frontend web developer. Welcome to my Github. I am building a
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/xarrijorge/">Xarri Jorge</a>
 - Twitter: <a href = "https://twitter.com/xarrijorge">Xarri Jorge</a>
-- Portfolio Site: <a href = "https://xarrijorge.netlify.app">xarri Jorge</a>. 
+- Portfolio Site: <a href = "https://xarrijorge.netlify.app">xarri Jorge</a>. - Still have to complete. Have been super lazy with it 😁
 <br>
 <br>
