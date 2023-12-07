@@ -2,7 +2,8 @@
 
 # I am The African Nomad 🌴🐫
 
-Traveling the world, building products and making connections. My current stop, for the next 10 months or so, is Accra Ghana.
+Traveling the world, building products and making connections. 
+My current stop, for the next 10 months or so, is Accra Ghana.
 
 
 ### ☕ Get in touch
